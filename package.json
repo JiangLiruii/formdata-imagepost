@@ -1,0 +1,19 @@
+{
+  "name": "formdata-imagepost",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": ["formdata", "multipart", "multipart/form-data", "form-data", "node", "express", "boundary"],
+  "author": "jianglirui",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}

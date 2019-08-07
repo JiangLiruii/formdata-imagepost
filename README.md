@@ -1,6 +1,6 @@
-# This is a small tool only for **multipart/form-data** request, which served on nodejs env as a middleware.
+# This is a small tool only for **multipart/form-data** request
 
-### It only depends on nodejs one native package: fs, for saving posted image.
+### This is served on nodejs env as a middleware. It only depends on nodejs one native package: fs, for saving posted image.
 
 ## API
 

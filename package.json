@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/JiangLiruii/formdata-imagepost"
   },
   "keywords": ["formdata", "multipart", "multipart/form-data", "form-data", "node", "express", "boundary"],
   "author": "jianglirui",
